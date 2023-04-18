@@ -7,3 +7,9 @@ TECHNOLOGIES USED- 1. HTML
 
 USAGE INSTRUCTIONS
 Playing Music- To play a track, click on the "play" button. You can pause or resume playback by clicking on the "pause" button. You can also skip to the next or previous track using the "next" or "previous" button in the footer section.
+
+18001012020- Kanishka
+15401012020-Mehreen
+15801012020-Ashlesha
+18601012020-Meghaavi
+13301012020-Riddhi Barodia
