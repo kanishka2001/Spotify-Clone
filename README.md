@@ -14,5 +14,5 @@ TECHNOLOGIES USED- 1. HTML
 USAGE INSTRUCTIONS
 Playing Music- To play a track, click on the "play" button. You can pause or resume playback by clicking on the "pause" button. You can also skip to the next or previous track using the "next" or "previous" button in the footer section.
 
-PROJECT LINK-
+PROJECT LINK- https://kanishka2001.github.io/Spotify-Clone/
 
